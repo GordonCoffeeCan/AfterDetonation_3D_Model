@@ -1,0 +1,24 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd player_colorMap.jpg
+bump player_normalmap.jpg -bm 1
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pedestalColorMap.jpg
+bump pedestalNormalMap.jpg -bm 1
+Ni 1.00
+newmtl pasted__sniperRifle_matSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sniperRifle_Colormap.jpg
+bump sniperRifle_Normal.jpg -bm 1
+Ni 1.00
